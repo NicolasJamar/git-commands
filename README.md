@@ -18,7 +18,7 @@ git pull origin master = pour tirer sur son PC les dossiers et fichiers de GitHu
 
 git pull "Nom du remote" master
 
-git add . = ajouter toutes les modifs qu'on a fait dans une boîte
+git add . = ajouter toutes les modifs qu'on a fait dans une boîte (on peut également git add "Nom du fichier" si on veut seulement ajouter un fichier)
 
 git commit -m "Nom du commit" = créer un commit(enregistrement), donne un nom à sa boite
 
