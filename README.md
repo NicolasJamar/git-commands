@@ -3,15 +3,16 @@ Un petit lexique perso de Git
 
 # Lexique
 
-git init "Nom du dossier" = c'est pur dire que ça c'est un dossier Git
+git config --global user.email "e-mail" = pour dire qui on est à Git
+
+
+git init "Nom du dossier" = c'est pour dire que ça c'est un dossier Git
 
 git remote add origin "Lien GitHub" = pour lier son dossier PC à GitHub (au master)
 
 git remote add fork "Lien GitHub" = pour lier son dossier PC à sa branche GitHub
 
-git config --global user.email "e-mail" = pour dire qui on est à Git
-
-git remote -v = pour avoir le listing des remote
+git remote -v = pour voir le listing des remote
 
 git pull origin master = pour tirer sur son PC les dossiers et fichiers de GitHub
 
