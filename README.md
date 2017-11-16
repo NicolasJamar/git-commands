@@ -18,7 +18,7 @@ git branch = créer une branche
 
 git pull origin master = pour tirer sur son PC les dossiers et fichiers de GitHub
 
-git pull origin "Nom du projet" = pour tirer sur son PC les dossiers et fichiers de GitHub
+git pull origin "Nom de la branche" = pour tirer sur son PC les dossiers et fichiers de GitHub
 
 git add . = ajouter toutes les modifs qu'on a fait dans une boîte (on peut également git add "Nom du fichier" si on veut seulement ajouter un fichier)
 
