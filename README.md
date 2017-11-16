@@ -10,7 +10,7 @@ git init "Nom du dossier" = c'est pour dire que ça c'est un dossier Git
 
 git remote add origin "Lien GitHub" = pour lier son dossier PC à GitHub (au master)
 
-git remote add fork "Lien GitHub" = pour lier son dossier PC à sa branche GitHub
+git remote add fork "Lien GitHub" = pour lier sa branche GitHub à son dossier PC
 
 git remote -v = pour voir le listing des remote
 
