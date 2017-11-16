@@ -23,3 +23,8 @@ git add . = ajouter toutes les modifs qu'on a fait dans une boîte (on peut éga
 git commit -m "Nom du commit" = créer un commit(enregistrement), donne un nom à sa boite
 
 git push fork master = pour pousser le contenu de sa boite(ses modifs) vers GitHub
+
+git push --set-upstream origin {prenom-nom} = Dit à Github qu'il doit créer ta branche également sur github.com et pas seulement en local
+
+git checkout master = 
+git merge {prenom-nom} =   --> Applique tes changements de ta branche vers la branche "master"
