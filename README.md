@@ -28,5 +28,6 @@ git push fork master = pour pousser le contenu de sa boite(ses modifs) vers GitH
 
 git push --set-upstream origin {prenom-nom} = Dit à Github qu'il doit créer ta branche également sur github.com et pas seulement en local
 
-git checkout master = 
+git checkout master "ou" nom de la branche = aller sur la branche nommée
+
 git merge {prenom-nom} =   --> Applique tes changements de ta branche vers la branche "master"
