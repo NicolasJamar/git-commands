@@ -14,6 +14,8 @@ git remote add fork "Lien GitHub" = pour lier son dossier PC à sa branche GitHu
 
 git remote -v = pour voir le listing des remote
 
+git branch = créer une branche
+
 git pull origin master = pour tirer sur son PC les dossiers et fichiers de GitHub
 
 git pull "Nom du remote" master
