@@ -16,6 +16,8 @@ git remote -v = pour voir le listing des remote
 
 git branch = créer une branche
 
+Faire git branch -a pour afficher la liste des branches sur le serveur
+
 git pull origin master = pour tirer sur son PC les dossiers et fichiers de GitHub
 
 git pull origin "Nom de la branche" = pour tirer sur son PC les dossiers et fichiers de GitHub
