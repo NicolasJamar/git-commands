@@ -33,3 +33,5 @@ git push --set-upstream origin {prenom-nom} = Dit à Github qu'il doit créer ta
 git checkout master "ou" nom de la branche = aller sur la branche nommée
 
 git merge {prenom-nom} =   --> Applique tes changements de ta branche vers la branche "master"
+
+[Explications pour lier un répo distant à un répo Github](https://gist.github.com/br1o/2761593)
