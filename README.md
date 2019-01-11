@@ -14,7 +14,7 @@ git remote add fork "Lien GitHub" = pour lier sa branche GitHub à son dossier P
 
 git remote -v = pour voir le listing des remote
 
-git branch = créer une branche
+git branch "NomDeLaBranche" = créer une branche
 
 Faire git branch -a pour afficher la liste des branches sur le serveur
 
